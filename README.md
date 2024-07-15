@@ -1,7 +1,59 @@
+<div align="center">
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,10:393E46,30:AFDBF5,75:AFDBF5,100:222831&height=100&section=header&text=&fontSize=0" width="100%"/>
+<br><br>
+
+
+
+    
+<!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=AFDBF5&size=40&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Dohyun+Kim" alt="Typing SVG" /></a>
+<br>
+<div align="center">  
+</div>
+</div>
+
+
+<p align="center">
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img src="https://img.shields.io/badge/C-3055b3.svg?style=flat&logo=c&logoColor=white" alt="C">
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-3055b3.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-c4832d.svg?style=flat&logo=coffeescript&logoColor=white" alt="Java">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-bf5032.svg?style=flat&logo=python&logoColor=white" alt="python">
+  </a>
+  <a href="https://spring.io/projects/spring-boot/" target="_blank">
+    <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=flate&logo=springboot&logoColor=white" alt="springboot">
+  </a>
+</p>
+
+----
+
+</details>
+<br><br>
+<div align="center">
+  
+<!-- My profile -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410)](https://solved.ac/ghkrxhd410)
+<!-- 아래는 백준 잔디 클릭시 백준 연결되긴 함 -->
+<!--<img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>-->
+
+
+----
 <a href="https://github.com/devxb/gitanimals">
+<div align="center">
 <img
   src="https://render.gitanimals.org/farms/evryhungry"
-  width="600"
+  width="700"
   height="300"
 />
 </a>
+<br>
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:AFDBF5,75:AFDBF5,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
