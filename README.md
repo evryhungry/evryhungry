@@ -43,9 +43,8 @@
 <!-- 아래는 백준 잔디 클릭시 백준 연결되긴 함 -->
 <!--<img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>-->
 
-
 ----
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=evryhungry&utm_content=farm">
 <div align="center">
 <img
   src="https://render.gitanimals.org/farms/evryhungry"
