@@ -1,13 +1,13 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,10:393E46,30:AFDBF5,75:AFDBF5,100:222831&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,10:16213E,30:1A2A6C,75:1A73E8,100:0A0F1F&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
 
 
 
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=AFDBF5&size=40&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Dohyun+Kim" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=1A73E8&size=40&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Dohyun+Kim" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 </div>
@@ -37,11 +37,28 @@
 </details>
 <br><br>
 <div align="center">
-  
+<table>
+  <tr>
+    <td>
+      <a href="https://solved.ac/ghkrxhd410">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410" height="150"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=evryhungry&theme=github_dark&show_icons=true" height="150"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact" height="150"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- My profile -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410)](https://solved.ac/ghkrxhd410)
-<!-- 아래는 백준 잔디 클릭시 백준 연결되긴 함 -->
-<!--<img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>-->
 
 ----
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=evryhungry&utm_content=farm">
@@ -54,5 +71,5 @@
 </a>
 <br>
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:AFDBF5,75:AFDBF5,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,10:16213E,30:1A2A6C,75:1A73E8,100:0A0F1F&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
