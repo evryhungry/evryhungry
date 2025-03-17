@@ -51,7 +51,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart" height="150"/>
       </a>
     </td>
   </tr>
