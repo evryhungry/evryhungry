@@ -41,7 +41,7 @@
   <tr>
     <td>
       <a href="https://solved.ac/ghkrxhd410">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410" height="150"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410" height="130"/>
       </a>
     </td>
     <td>
