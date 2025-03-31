@@ -87,9 +87,9 @@
 
 2024.10 : Excellence Award at 2024 SW Startup Competition – issued by HGU
 
-2024.11 : Merit Award at Smart Application Contest – issued by HGU
+2024.11 : Merit Award 1 at Smart Application Contest – issued by HGU
 
-2024.11 : Merit Award at Smart Application Contest – issued by HGU (duplicate)
+2024.11 : Merit Award 2 at Smart Application Contest – issued by HGU
 
 2025.01 : Silver Award at 2025 COSS JBNU Olympiad – issued by COSS
   
