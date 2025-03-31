@@ -56,11 +56,45 @@
     </td>
   </tr>
 </table>
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)]
+
 <!-- My profile -->
+---- 
 
-----
+**🍀 TEAM 🍀**
+
+2024.06 - 2024.08 : 무지개떡
+
+2024.09 - present : RooT 
+
+2024.12 - present : WALAB; 웹앱 개발 연구실
+
+2025.01 - present : Nanuri 
+
+
+**🖥️ PROJECT 🖥️**
+
+2024.07 - present : 감정 일기를 통해 펫로스 증후군을 치유하는 Sincerely, 서비스
+
+2024.09 - present : 앱, 웹 콘텐츠를 저장하고 분류해두는 북마크 관리 RooT! 서비스
+
+2025.03 - present : 캠퍼스 내 나눔 기반 중고거래 플랫폼 Nanuri 서비스
+
+
+**🌟 AWARDS 🌟**
+
+2024.10 : Excellence Award at 2024 SW Startup Competition – issued by HGU
+
+2024.11 : Merit Award at Smart Application Contest – issued by HGU
+
+2024.11 : Merit Award at Smart Application Contest – issued by HGU (duplicate)
+
+2025.01 : Silver Award at 2025 COSS JBNU Olympiad – issued by COSS
+  
+---- 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=evryhungry&utm_content=farm">
 <div align="center">
 <img
