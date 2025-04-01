@@ -78,13 +78,13 @@
 
 **🖥️ PROJECT 🖥️**
 
-2024.07 - present : 감정 일기를 통해 펫로스 증후군을 치유하는 서비스, "Sincerely,"
+2024.07 - present : 감정 일기를 통해 펫로스 증후군을 치유하는 플랫폼, Sincerely,
 
-2024.09 - present : 앱, 웹 콘텐츠를 저장하고 분류해두는 북마크 관리 서비스, "RooT!"
+2024.09 - present : 앱, 웹 콘텐츠를 저장하고 분류해두는 북마크 관리 서비스, RooT!
 
-2025.03 - present : 캠퍼스 내 나눔 기반 중고거래 플랫폼 서비스, "Nanuri"
+2025.03 - present : 캠퍼스 내 나눔 기반 중고거래 플랫폼, Nanuri
 
-2025.03 - present : 1인 쇼퍼들을 위한 SaaS 기반 쇼핑몰, "SellerMap"
+2025.03 - present : 1인 쇼퍼들을 위한 SaaS 기반 쇼핑몰 호스팅 플랫폼, SellerMap
 
 
 **🌟 AWARDS 🌟**
