@@ -34,28 +34,23 @@
 
 ----
 <div align="center">
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410)](https://solved.ac/ghkrxhd410)
-<img src="http://mazandi.herokuapp.com/api?handle=ghkrxhd410&theme=dark"
-    width="34%"
-    />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=evryhungry&theme=github_dark&show_icons=true"
-    width="40%"
+    width="53.7%"
   />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart"
-    width="30.5%"
+    width="40.3%"
   />
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark&layout=compac"
     style="width:94%;"
   />
 </a>
