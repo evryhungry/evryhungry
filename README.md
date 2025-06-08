@@ -43,7 +43,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby"
     width="40.3%"
   />
 
