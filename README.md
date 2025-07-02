@@ -52,7 +52,6 @@
     width="40.3%"
   />
 
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark&layout=compac"
@@ -98,13 +97,12 @@
 2025.01 : Silver Award at 2025 COSS JBNU Olympiad – issued by COSS
   
 ---- 
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=evryhungry&utm_content=farm">
 <div align="center">
 <img
   src="https://render.gitanimals.org/farms/evryhungry"
-  width="700"
-  height="300"
+  width="90.3%"
+  height="500"
 />
 </a>
 <br>
