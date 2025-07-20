@@ -70,7 +70,7 @@
 
 2024.12 - present : WALAB; 웹앱 개발 연구실
 
-2025.01 - present : Nanuri 
+2025.01 - 2025.08 : Nanuri 
 
 2025.03 - present : SellerMap
 
