@@ -90,8 +90,9 @@
 2025.01 : Silver Award at 2025 COSS JBNU Olympiad – issued by COSS
 
 </div>
+
 <!-- My profile -->
----- 
+----
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=evryhungry&utm_content=farm">
 <div align="center">
 <img
