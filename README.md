@@ -2,17 +2,10 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,10:16213E,30:1A2A6C,75:1A73E8,100:0A0F1F&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
-
-
-
     
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=1A73E8&size=40&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Dohyun+Kim" alt="Typing SVG" /></a>
-<br>
-<div align="center">  
 </div>
-</div>
-
 
 <p align="center">
   <a href="https://en.cppreference.com/w/" target="_blank">
@@ -59,9 +52,9 @@
   />
 </a>
 
-<!-- My profile -->
----- 
-
+----
+<div align="left">
+    
 **🍀 TEAM 🍀**
 
 2024.06 - 2024.08 : 무지개떡
@@ -70,7 +63,7 @@
 
 2024.12 - present : WALAB; 웹앱 개발 연구실
 
-2025.01 - 2025.08 : Nanuri 
+2025.01 - present : Nanuri 
 
 2025.03 - present : SellerMap
 
@@ -95,7 +88,9 @@
 2024.11 : Merit Award 2 at Smart Application Contest – issued by HGU
 
 2025.01 : Silver Award at 2025 COSS JBNU Olympiad – issued by COSS
-  
+
+</div>
+<!-- My profile -->
 ---- 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=evryhungry&utm_content=farm">
 <div align="center">
@@ -104,8 +99,10 @@
   width="90.3%"
   height="500"
 />
+</p>
+</div>
 </a>
+
 <br>
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,10:16213E,30:1A2A6C,75:1A73E8,100:0A0F1F&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</div>
