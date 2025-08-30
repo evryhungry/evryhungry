@@ -72,11 +72,11 @@
 
 2024.07 - 2024.09 : 감정 일기를 통해 펫로스 증후군을 치유하는 플랫폼, Sincerely,
 
-2025.01 - present : [앱 내 콘텐츠를 저장하고 분류해두는 북마크 관리 서비스, RooT!](https://apps.apple.com/app/root/id6743316666)
+[2025.01 - present : 앱 내 콘텐츠를 저장하고 분류해두는 북마크 관리 서비스, RooT!](https://apps.apple.com/app/root/id6743316666)
 
-2025.03 - present : [캠퍼스 내 나눔 기반 중고거래 플랫폼, Nanuri](https://walab.info/handful/home)
+[2025.03 - present : 캠퍼스 내 나눔 기반 중고거래 플랫폼, Nanuri](https://walab.info/handful/home)
 
-2025.03 - present : [1인 쇼퍼들을 위한 SaaS 기반 쇼핑몰 호스팅 플랫폼, SellerMap](https://sellermap.co.kr/)
+[2025.03 - present : 1인 쇼퍼들을 위한 SaaS 기반 쇼핑몰 호스팅 플랫폼, SellerMap](https://sellermap.co.kr/)
 
 
 **🌟 AWARDS 🌟**
