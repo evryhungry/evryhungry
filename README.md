@@ -70,7 +70,7 @@
 
 **🖥️ PROJECT 🖥️**
 
-2024.07 - 2024.09 : 감정 일기를 통해 펫로스 증후군을 치유하는 플랫폼, Sincerely,
+[2024.07 - 2024.09 : 감정 일기를 통해 펫로스 증후군을 치유하는 플랫폼, Sincerely,](https://github.com/Club-PARD/Rainbow_BE)
 
 [2025.01 - present : 앱 내 콘텐츠를 저장하고 분류해두는 북마크 관리 서비스, RooT!](https://apps.apple.com/app/root/id6743316666)
 
