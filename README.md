@@ -28,26 +28,26 @@
 ----
 <p align="center">
   <a href="https://solved.ac/ghkrxhd410">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410" alt="Solved.ac Profile" width="40.7%"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkrxhd410&cache_seconds=21600" alt="Solved.ac Profile" width="40.7%"/>
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=ghkrxhd410&theme=dark" alt="Mazandi Graph" width="40.3%"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=ghkrxhd410&theme=dark&cache_seconds=21600" alt="Mazandi Graph" width="40.3%"/>
 </p>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=evryhungry&theme=github_dark&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=evryhungry&theme=github_dark&show_icons=true&cache_seconds=21600"
     width="53.7%"
   />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby&cache_seconds=21600"
     width="40.3%"
   />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark&layout=compac"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark&layout=compact&cache_seconds=21600"
     style="width:94%;"
   />
 </a>
