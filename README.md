@@ -61,9 +61,9 @@
 
 2024.09 - present : RooT 
 
-2024.12 - present : WALAB; 웹앱 개발 연구실
+2024.12 - 2025.12 : WALAB; 웹앱 개발 연구실
 
-2025.01 - present : Nanuri 
+2025.01 - 2025.06 : Nanuri 
 
 2025.03 - present : SellerMap
 
