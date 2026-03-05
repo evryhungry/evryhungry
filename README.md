@@ -78,6 +78,7 @@
 
 [2025.03 - present : 1인 쇼퍼들을 위한 SaaS 기반 쇼핑몰 호스팅 플랫폼, SellerMap](https://sellermap.co.kr/)
 
+[2025.07 - 2025.12 : 학사 내 PDF 문서 공동 작업 플랫폼, Coworks](https://coworks.walab.info/)
 
 **🌟 AWARDS 🌟**
 
@@ -88,6 +89,8 @@
 2024.11 : Merit Award 2 at Smart Application Contest – issued by HGU
 
 2025.01 : Excellence Award at 2025 COSS JBNU Olympiad – issued by COSS
+
+2025.11 : Top Award at 2025-2 Capstone Festival - issued by HGU
 
 </div>
 
